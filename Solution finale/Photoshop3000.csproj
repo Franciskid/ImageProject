@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EE757F34-A3FB-427E-B688-56C6148B32C9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Photoshop3000</RootNamespace>
+    <AssemblyName>Photoshop3000</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DocumentationFile>bin\Debug\Photoshop3000.xml</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes Images\Classes annexes\ConvolutionMatrix.cs" />
+    <Compile Include="Classes Images\Classes annexes\Barcode1D\DrawBarcode1D.cs" />
+    <Compile Include="Classes Images\Classes annexes\Barcode1D\ScanBarcode1D.cs" />
+    <Compile Include="Classes Images\Classes annexes\Barcode1D\Barcode1D.cs" />
+    <Compile Include="Classes Images\Classes annexes\QrCode\DrawQRCode.cs" />
+    <Compile Include="Classes Images\Classes annexes\QrCode\MaskModèles.cs" />
+    <Compile Include="Classes Images\Classes annexes\QrCode\MyReedSol\ReedEncoder.cs" />
+    <Compile Include="Classes Images\Classes annexes\QrCode\QRCode.cs" />
+    <Compile Include="Classes Images\Classes annexes\QrCode\QRCodeData.cs" />
+    <Compile Include="Classes Images\Classes annexes\QrCode\ReedSolomon\GenericGF.cs" />
+    <Compile Include="Classes Images\Classes annexes\QrCode\ReedSolomon\GenericGFPoly.cs" />
+    <Compile Include="Classes Images\Classes annexes\QrCode\ReedSolomon\ReedSolomonAlgorithm.cs" />
+    <Compile Include="Classes Images\Classes annexes\QrCode\ReedSolomon\ReedSolomonDecoder.cs" />
+    <Compile Include="Classes Images\Classes annexes\QrCode\ReedSolomon\ReedSolomonEncoder.cs" />
+    <Compile Include="Classes Images\Classes annexes\QrCode\ScanQRCode.cs" />
+    <Compile Include="Classes Images\Formats.cs" />
+    <Compile Include="Classes Images\MyImageFolder\BITMAP SPECIFICATIONS\BITMAPHEADER.cs" />
+    <Compile Include="Classes Images\MyImageFolder\BITMAP SPECIFICATIONS\BITMAPHEADER_32.cs" />
+    <Compile Include="Classes Images\MyImageFolder\BITMAP SPECIFICATIONS\BITMAPCONST.cs" />
+    <Compile Include="Classes Images\MyImageFolder\MyImageSaveFormat.cs" />
+    <Compile Include="Classes Images\Structures\RectangleD.cs" />
+    <Compile Include="GUI\GUI Annexes\BarcodeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\BarcodeForm.Designer.cs">
+      <DependentUpon>BarcodeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\CopieImageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\CopieImageForm.Designer.cs">
+      <DependentUpon>CopieImageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\CouleurFiltre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\CouleurFiltre.Designer.cs">
+      <DependentUpon>CouleurFiltre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\Dessin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\Dessin.Designer.cs">
+      <DependentUpon>Dessin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\Décalage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\Décalage.Designer.cs">
+      <DependentUpon>Décalage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes Images\Classes annexes\Filtre.cs" />
+    <Compile Include="GUI\GUI Annexes\FractaleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\FractaleForm.Designer.cs">
+      <DependentUpon>FractaleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\Histogramme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\Histogramme.Designer.cs">
+      <DependentUpon>Histogramme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\JuliaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\JuliaForm.Designer.cs">
+      <DependentUpon>JuliaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\ModifImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\ModifImage.Designer.cs">
+      <DependentUpon>ModifImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes Images\Classes annexes\Fractale.cs" />
+    <Compile Include="Classes Images\MyGraphics.cs" />
+    <Compile Include="Classes Images\Classes annexes\MyImageStats.cs" />
+    <Compile Include="Classes Images\Structures\NombreComplex.cs" />
+    <Compile Include="Classes Images\Structures\Pixel.cs" />
+    <Compile Include="GUI\GUI Annexes\Pixélisation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\Pixélisation.Designer.cs">
+      <DependentUpon>Pixélisation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes Images\Structures\Point.cs" />
+    <Compile Include="Classes Images\Program.cs" />
+    <Compile Include="Classes Images\MyImageFolder\MyImage.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GUI\GUI Annexes\RognageImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\RognageImage.Designer.cs">
+      <DependentUpon>RognageImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes Images\Classes annexes\Stéganographie.cs" />
+    <Compile Include="GUI\GUI Annexes\StéganographieForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\GUI Annexes\StéganographieForm.Designer.cs">
+      <DependentUpon>StéganographieForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GUI\GUI Annexes\BarcodeForm.resx">
+      <DependentUpon>BarcodeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI Annexes\CopieImageForm.resx">
+      <DependentUpon>CopieImageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI Annexes\CouleurFiltre.resx">
+      <DependentUpon>CouleurFiltre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI Annexes\Dessin.resx">
+      <DependentUpon>Dessin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI Annexes\Décalage.resx">
+      <DependentUpon>Décalage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI Annexes\FractaleForm.resx">
+      <DependentUpon>FractaleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI Annexes\Histogramme.resx">
+      <DependentUpon>Histogramme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI Annexes\JuliaForm.resx">
+      <DependentUpon>JuliaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI Annexes\ModifImage.resx">
+      <DependentUpon>ModifImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI Annexes\Pixélisation.resx">
+      <DependentUpon>Pixélisation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI Annexes\RognageImage.resx">
+      <DependentUpon>RognageImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\GUI Annexes\StéganographieForm.resx">
+      <DependentUpon>StéganographieForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

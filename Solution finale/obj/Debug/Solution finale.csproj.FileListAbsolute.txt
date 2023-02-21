@@ -1,0 +1,49 @@
+C:\Users\ll170789\source\repos\Solution finale\Solution finale\obj\Debug\Solution finale.csprojAssemblyReference.cache
+C:\Users\ll170789\source\repos\Solution finale\Solution finale\obj\Debug\Solution_finale.Properties.Resources.resources
+C:\Users\ll170789\source\repos\Solution finale\Solution finale\obj\Debug\Solution finale.csproj.GenerateResource.cache
+C:\Users\ll170789\source\repos\Solution finale\Solution finale\obj\Debug\Solution finale.csproj.CoreCompileInputs.cache
+C:\Users\ll170789\source\repos\Solution finale\Solution finale\bin\Debug\Solution finale.exe.config
+C:\Users\ll170789\source\repos\Solution finale\Solution finale\bin\Debug\Solution finale.exe
+C:\Users\ll170789\source\repos\Solution finale\Solution finale\bin\Debug\Solution finale.pdb
+C:\Users\ll170789\source\repos\Solution finale\Solution finale\obj\Debug\Solution finale.exe
+C:\Users\ll170789\source\repos\Solution finale\Solution finale\obj\Debug\Solution finale.pdb
+C:\Users\ll170789\source\repos\Solution finale\Solution finale\obj\Debug\Solution_finale.Photoshop3000.resources
+C:\Users\François\Documents\C#\Solution finale\Solution finale\bin\Debug\Solution finale.exe.config
+C:\Users\François\Documents\C#\Solution finale\Solution finale\bin\Debug\Solution finale.exe
+C:\Users\François\Documents\C#\Solution finale\Solution finale\bin\Debug\Solution finale.pdb
+C:\Users\François\Documents\C#\Solution finale\Solution finale\obj\Debug\Solution finale.csprojAssemblyReference.cache
+C:\Users\François\Documents\C#\Solution finale\Solution finale\obj\Debug\Solution_finale.Photoshop3000.resources
+C:\Users\François\Documents\C#\Solution finale\Solution finale\obj\Debug\Solution_finale.Properties.Resources.resources
+C:\Users\François\Documents\C#\Solution finale\Solution finale\obj\Debug\Solution finale.csproj.GenerateResource.cache
+C:\Users\François\Documents\C#\Solution finale\Solution finale\obj\Debug\Solution finale.csproj.CoreCompileInputs.cache
+C:\Users\François\Documents\C#\Solution finale\Solution finale\obj\Debug\Solution finale.exe
+C:\Users\François\Documents\C#\Solution finale\Solution finale\obj\Debug\Solution finale.pdb
+C:\Users\François\Documents\C#\Solution finale\Solution finale\obj\Debug\Solution_finale.ModifImage.resources
+C:\Users\François\Documents\C#\Solution finale\Solution finale\obj\Debug\Solution_finale.RognageImage.resources
+C:\Users\François\Documents\C#\Solution finale\Solution finale\obj\Debug\Solution_finale.Pixélisation.resources
+C:\Users\François\Documents\C#\Solution finale\Solution finale\obj\Debug\Solution_finale.Histogramme.resources
+C:\Users\François\Documents\C#\Solution finale\Solution finale\obj\Debug\Solution_finale.CouleurFiltre.resources
+C:\Users\François\Documents\C#\Solution finale\Solution finale\obj\Debug\Solution_finale.StéganographieForm.resources
+C:\Users\François\Documents\C#\Solution finale\Solution finale\obj\Debug\Solution_finale.FractaleForm.resources
+C:\Users\François\Documents\C#\Solution finale\Solution finale\obj\Debug\Solution_finale.CopieImageForm.resources
+C:\Users\François\Documents\C#\Solution finale\Solution finale\obj\Debug\Solution_finale.Dessin.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\bin\Debug\Solution finale.exe.config
+C:\Users\François\source\repos\Solution finale\Solution finale\bin\Debug\Solution finale.exe
+C:\Users\François\source\repos\Solution finale\Solution finale\bin\Debug\Solution finale.pdb
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Solution finale.csprojAssemblyReference.cache
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Solution_finale.CopieImageForm.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Solution_finale.CouleurFiltre.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Solution_finale.Dessin.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Solution_finale.FractaleForm.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Solution_finale.Histogramme.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Solution_finale.ModifImage.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Solution_finale.Photoshop3000.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Solution_finale.Properties.Resources.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Solution_finale.RognageImage.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Solution_finale.StéganographieForm.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Solution finale.csproj.GenerateResource.cache
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Solution finale.csproj.CoreCompileInputs.cache
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Solution finale.exe
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Solution finale.pdb
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Solution_finale.Pixellisation.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Solution_finale.Décalage.resources

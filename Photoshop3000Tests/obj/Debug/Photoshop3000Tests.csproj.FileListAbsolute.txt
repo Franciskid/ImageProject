@@ -1,0 +1,39 @@
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Photoshop3000Tests.dll
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Photoshop3000Tests.pdb
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Photoshop3000.exe
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Photoshop3000.pdb
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Photoshop3000.xml
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Photoshop3000.exe.config
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\obj\Debug\Photoshop3000Tests.csprojAssemblyReference.cache
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\obj\Debug\Photoshop3000Tests.csproj.CoreCompileInputs.cache
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\obj\Debug\Photoshop3000Tests.csproj.CopyComplete
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\obj\Debug\Photoshop3000Tests.dll
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\obj\Debug\Photoshop3000Tests.pdb
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Photoshop3000Tests.dll
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Photoshop3000Tests.pdb
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Photoshop3000.exe
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Photoshop3000.pdb
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Photoshop3000.xml
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Photoshop3000.exe.config
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\obj\Debug\Photoshop3000Tests.csprojAssemblyReference.cache
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\obj\Debug\Photoshop3000Tests.csproj.CoreCompileInputs.cache
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\obj\Debug\Photoshop3000Tests.csproj.CopyComplete
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\obj\Debug\Photoshop3000Tests.dll
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Photoshop3000Tests\obj\Debug\Photoshop3000Tests.pdb

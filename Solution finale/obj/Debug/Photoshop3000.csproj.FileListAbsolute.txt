@@ -1,0 +1,108 @@
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Photoshop3000.csprojAssemblyReference.cache
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Photoshop3000.Properties.Resources.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Photoshop3000.csproj.GenerateResource.cache
+C:\Users\François\source\repos\Solution finale\Solution finale\bin\Debug\Photoshop3000.exe.config
+C:\Users\François\source\repos\Solution finale\Solution finale\bin\Debug\Photoshop3000.exe
+C:\Users\François\source\repos\Solution finale\Solution finale\bin\Debug\Photoshop3000.pdb
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Photoshop3000.exe
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Photoshop3000.pdb
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Photoshop3000.CopieImageForm.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Photoshop3000.CouleurFiltre.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Photoshop3000.Dessin.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Photoshop3000.Décalage.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Photoshop3000.FractaleForm.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Photoshop3000.Histogramme.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Photoshop3000.ModifImage.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Photoshop3000.MainWindow.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Photoshop3000.Pixellisation.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Photoshop3000.RognageImage.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Photoshop3000.StéganographieForm.resources
+C:\Users\François\source\repos\Solution finale\Solution finale\bin\Debug\System.ValueTuple.dll
+C:\Users\François\source\repos\Solution finale\Solution finale\bin\Debug\System.ValueTuple.xml
+C:\Users\François\source\repos\Solution finale\Solution finale\obj\Debug\Photoshop3000.csproj.CopyComplete
+C:\Users\François\source\repos\Solution finale\Solution finale\bin\Debug\System.Buffers.dll
+C:\Users\François\source\repos\Solution finale\Solution finale\bin\Debug\System.Buffers.xml
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\Photoshop3000.exe.config
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\Photoshop3000.exe
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\Photoshop3000.pdb
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\System.Buffers.dll
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\System.ValueTuple.dll
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\System.Buffers.xml
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\System.ValueTuple.xml
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.CopieImageForm.resources
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.CouleurFiltre.resources
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.Dessin.resources
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.Décalage.resources
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.FractaleForm.resources
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.Histogramme.resources
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.ModifImage.resources
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.MainWindow.resources
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.Pixellisation.resources
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.Properties.Resources.resources
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.RognageImage.resources
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.StéganographieForm.resources
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.csproj.GenerateResource.cache
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.csproj.CopyComplete
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.exe
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.pdb
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\Photoshop3000.xml
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.csproj.CoreCompileInputs.cache
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.GUI.GUI_Annexes.BarcodeForm.resources
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.GUI.GUI_Annexes.JuliaForm.resources
+C:\Users\François\source\repos\Projet Image Année 2 - 1\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.csprojAssemblyReference.cache
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\Photoshop3000.exe.config
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\Photoshop3000.xml
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\Photoshop3000.exe
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\Photoshop3000.pdb
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\System.Buffers.dll
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\System.ValueTuple.dll
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\System.Buffers.xml
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\System.ValueTuple.xml
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.csprojAssemblyReference.cache
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.GUI.GUI_Annexes.BarcodeForm.resources
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.CopieImageForm.resources
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.CouleurFiltre.resources
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.Dessin.resources
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.Décalage.resources
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.FractaleForm.resources
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.Histogramme.resources
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.GUI.GUI_Annexes.JuliaForm.resources
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.ModifImage.resources
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.MainWindow.resources
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.Pixellisation.resources
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.Properties.Resources.resources
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.RognageImage.resources
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.StéganographieForm.resources
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.csproj.GenerateResource.cache
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.csproj.CoreCompileInputs.cache
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.csproj.CopyComplete
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.exe
+C:\Users\François\source\repos\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.pdb
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\Photoshop3000.exe.config
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\Photoshop3000.xml
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\Photoshop3000.exe
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\Photoshop3000.pdb
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\System.Buffers.dll
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\System.ValueTuple.dll
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\System.Buffers.xml
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\bin\Debug\System.ValueTuple.xml
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.csprojAssemblyReference.cache
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.GUI.GUI_Annexes.BarcodeForm.resources
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.CopieImageForm.resources
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.CouleurFiltre.resources
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.Dessin.resources
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.Décalage.resources
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.FractaleForm.resources
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.Histogramme.resources
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.GUI.GUI_Annexes.JuliaForm.resources
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.ModifImage.resources
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.MainWindow.resources
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.Pixellisation.resources
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.Properties.Resources.resources
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.RognageImage.resources
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.StéganographieForm.resources
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.csproj.GenerateResource.cache
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.csproj.CoreCompileInputs.cache
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.csproj.CopyComplete
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.exe
+C:\Users\Francois\OneDrive - De Vinci\ESILV - Cours et TD\C#\ESILV Cours A2\Projet Image Année 2\IMAGE PROJET SEMESTRE 4 FINALE\Solution finale\obj\Debug\Photoshop3000.pdb
